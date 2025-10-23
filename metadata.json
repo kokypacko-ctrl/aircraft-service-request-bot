@@ -1,0 +1,5 @@
+{
+  "name": "Aircraft Service Request Bot",
+  "description": "A web application to manage aircraft servicing requests for passenger steps. It allows staff to raise requests, track their status, and download a report of all requests.",
+  "requestFramePermissions": []
+}
